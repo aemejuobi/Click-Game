@@ -17,11 +17,12 @@ class App extends Component {
     console.log(randomIndex);
     const itemInArr = this.state.pics;
     let differentURL = itemInArr[randomIndex].url;
+    // attempted to set new state for the url
     this.setState({
-      id: itemInArr.id,
+      // id: itemInArr.id,
       url: differentURL,
-      isClicked: itemInArr.isClicked,
-      numOfClicks: itemInArr.numOfClicks
+      // isClicked: itemInArr.isClicked,
+      // numOfClicks: itemInArr.numOfClicks
     })
     // return differentURL;
   }
