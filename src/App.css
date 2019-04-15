@@ -1,0 +1,99 @@
+body{
+  margin: 0;
+  padding: 0;
+}
+
+.jumbotron{
+  margin-bottom: 0;
+  padding-bottom: 100px;
+  padding-top: 150px;
+  background-image: url("./images/wood.jpg");
+  /* position: fixed; */
+}
+
+.display-4{
+  font-weight: 700;
+  font-size: 4em;
+  margin-top: 40px;
+}
+
+.lead{
+  font-size: 2em;
+  font-weight: 600;
+}
+
+#click{
+  color: black;
+  text-decoration: none;
+}
+
+ul {
+  margin-bottom: 0;
+  font-size: 1.3em;
+  font-weight: 700;
+  box-shadow: 0 5px 5px grey;
+  position: fixed;
+  width: 100%;
+  background-color: rgb(233, 182, 54);
+  color: black;
+  z-index: 1;
+}
+
+ul li{
+  width: 33.3%;
+  padding: 25px 0;
+  display: inline-block;
+  text-align: center;
+}
+
+/* .pic {
+  display: inline-block;
+  margin: 10px;
+  border: 1px solid #eee;
+  box-shadow: 0 2px 2px #ccc;
+  width: 200px;
+  padding: 20px;
+} */
+
+#cardDivBox{
+  display: flex;
+  justify-content: left;
+}
+
+.card{
+  width: 18rem;
+  margin: 10px;
+  border: 1px solid #eee;
+  box-shadow: 0 2px 2px #ccc;
+}
+
+.App {
+  text-align: center;
+}
+
+/* .App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 40vmin;
+  pointer-events: none;
+} */
+
+/* .App-header {
+  background-color: white;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: left;
+  color: white;
+} */
+
+#imgContainer{
+  display: flex;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+li {
+  list-style: none;
+}

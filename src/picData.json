@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/05/Motorshow_Geneva_2012_-_058.jpg",
+        "isClicked": false,
+        "numOfClicks": 0
+    },
+    {
+        "id": 2,
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/2015_Koenigsegg_One-1_%2819706358889%29.jpg",
+        "isClicked": false,
+        "numOfClicks": 0
+    },
+    {
+        "id": 3,
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/43/Koenigsegg_Agera_X_-_Flickr_-_Alexandre_Pr%C3%A9vot_%281%29.jpg",
+        "isClicked": false,
+        "numOfClicks": 0
+    },
+    {
+        "id": 4,
+        "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRV9WkgUfOqrFcAcmIfjXwmvk56nuRd9MgCX9aqfh7KORtm6CAl",
+        "isClicked": false,
+        "numOfClicks": 0
+    },
+    {
+        "id": 5,
+        "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTX7-gTotZmpGj0DoSaUP0XSveVr4xQzc-5l_mHhBnZaM2a4IGg0g",
+        "isClicked": false,
+        "numOfClicks": 0
+    },
+    {
+        "id": 6,
+        "url": "https://storage.googleapis.com/gtspirit/uploads/2013/07/9224994211_cc8816fbca_h.jpg",
+        "isClicked": false,
+        "numOfClicks": 0
+    },
+    {
+        "id": 7,
+        "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZijNMi-El4WFw7ALe-7v0u7n0g6r6OpLvW1IkZbAOPWQDoexMAw",
+        "isClicked": false,
+        "numOfClicks": 0
+    },
+    {
+        "id": 8,
+        "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1MT3pG8ISnNT9IEDI9OZcVhWu4JPSiTr0kZjTZl8CSxlSWvXA",
+        "isClicked": false,
+        "numOfClicks": 0
+    },
+    {
+        "id": 9,
+        "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrl03PDlAO99Kbn5uQPauKV_PG7Hd01eC0MAcIADee_hVQKZoPqQ",
+        "isClicked": false,
+        "numOfClicks": 0
+    },
+    {
+        "id": 10,
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Salon_de_l%27auto_de_Gen%C3%A8ve_2014_-_20140305_-_Lamborghini_Huracan_2.jpg",
+        "isClicked": false,
+        "numOfClicks": 0
+    },
+    {
+        "id": 11,
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/2016-03-01_Geneva_Motor_Show_G069.JPG/800px-2016-03-01_Geneva_Motor_Show_G069.JPG",
+        "isClicked": false,
+        "numOfClicks": 0
+    },
+    {
+        "id": 12,
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Pagani_Huayra_BC_.jpg/320px-Pagani_Huayra_BC_.jpg",
+        "isClicked": false,
+        "numOfClicks": 0
+    }
+]
