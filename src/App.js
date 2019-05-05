@@ -24,6 +24,7 @@ class App extends Component {
     this.setState({cards: randomizePics});
 
     // Game over logic
+    // If 
     if(clickedIds.includes(id)){
       this.setState({
         clickedIds: [],
@@ -33,11 +34,9 @@ class App extends Component {
 
       return;
 
-    }else{
-      clickedIds.push(id);
-      
+    }else{      
       this.setState({
-        clickedIds: this.state.clickedIds.push(id),
+        clickedIds: [...this.state.clickedIds, id],
         score: this.state.score + 1,
         message: "Good Job!!!"
       });
